@@ -4,7 +4,7 @@ public class test {
     public static void main(String[] args) {
         String url = "jdbc:postgresql://localhost:5432/test";
         String username = "postgres"; 
-        String password = "chas2004"; 
+        String password = "********"; 
  
         Connection cx = null;
         Statement st = null;
@@ -43,4 +43,5 @@ public class test {
         }
     }
 }
+
  
