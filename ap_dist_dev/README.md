@@ -16,7 +16,7 @@ L’application :
 - **Système d’exploitation** : Windows  
 - **Java (JDK)** : Java SE (version utilisée sur la machine)
 - **IDE** : (ex. IntelliJ IDEA / Eclipse)
-- **PostgreSQL** : **16.x**
+- **PostgreSQL** : **18**
 - **Driver JDBC PostgreSQL** : org.postgresql.Driver
 - **Base de données** : PostgreSQL locale
 
@@ -39,3 +39,4 @@ CREATE TABLE personnes (
   nom VARCHAR(100),
   age INT
 );
+
